@@ -1,0 +1,45 @@
+#thirdSection {
+  width: 100%;
+  height: 80vh;
+  display: flex;
+}
+
+#thirdSectionLeftContent,
+#thirdSectionRightContent {
+  width: 50%;
+  height: 90vh;
+
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  text-align: center;
+}
+
+#thirdSectionLeftImg,
+#thirdSectionRightImg {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  z-index: -1;
+}
+
+#thirdSection .content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin-top: 40vh;
+  z-index: 1;
+}
+
+#thirdSection .content h2 {
+  opacity: 0.88;
+}
+
+#thirdSection .content p{
+    width: 360px;
+    text-align: center;
+}

@@ -1,0 +1,19 @@
+#fifthSection {
+  width: 100%;
+  height: 80vh;
+
+  display: flex;
+}
+
+.fifthSectionImg {
+  width: 25%;
+  height: 100%;
+  position: relative;
+}
+
+.fifthSectionImg img {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  object-fit: cover;
+}

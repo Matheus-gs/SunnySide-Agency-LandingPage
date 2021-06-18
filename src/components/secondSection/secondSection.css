@@ -1,0 +1,23 @@
+#secondSection {
+  width: 100%;
+  height: 80vh;
+  display: flex;
+}
+
+#secondSectionContent {
+  width: 50%;
+  height: 80vh;
+  background: #f6f6f6;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#secondSectionImg {
+  width: 50%;
+  height: 80vh;
+}
+
+#secondSection .content a {
+  border-bottom: 2px solid #fe7867;
+}

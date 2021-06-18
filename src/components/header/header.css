@@ -1,0 +1,27 @@
+
+header {
+  width: 100%;
+  height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  background: no-repeat center url("../../images/desktop/image-header.jpg");
+  background-size: cover;
+
+  position: relative;
+}
+
+.header-title {
+  font-family: "Fraunces", serif;
+  font-weight: 900;
+  font-size: 4rem;
+  letter-spacing: 12px;
+  color: #ffffff;
+  margin-top: 25vh;
+}
+
+.arrowDownHeader{
+  margin-top: 8vh;
+}
