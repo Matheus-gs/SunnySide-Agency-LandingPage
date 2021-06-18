@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/SunnySide-Agency-LandingPage/static/css/main.73af4cfb.chunk.css",
+    "main.js": "/SunnySide-Agency-LandingPage/static/js/main.7795fb47.chunk.js",
+    "main.js.map": "/SunnySide-Agency-LandingPage/static/js/main.7795fb47.chunk.js.map",
+    "runtime-main.js": "/SunnySide-Agency-LandingPage/static/js/runtime-main.b7901f1f.js",
+    "runtime-main.js.map": "/SunnySide-Agency-LandingPage/static/js/runtime-main.b7901f1f.js.map",
+    "static/js/2.393aaf29.chunk.js": "/SunnySide-Agency-LandingPage/static/js/2.393aaf29.chunk.js",
+    "static/js/2.393aaf29.chunk.js.map": "/SunnySide-Agency-LandingPage/static/js/2.393aaf29.chunk.js.map",
+    "index.html": "/SunnySide-Agency-LandingPage/index.html",
+    "static/css/main.73af4cfb.chunk.css.map": "/SunnySide-Agency-LandingPage/static/css/main.73af4cfb.chunk.css.map",
+    "static/js/2.393aaf29.chunk.js.LICENSE.txt": "/SunnySide-Agency-LandingPage/static/js/2.393aaf29.chunk.js.LICENSE.txt",
+    "static/media/image-gallery-cone.461ff421.jpg": "/SunnySide-Agency-LandingPage/static/media/image-gallery-cone.461ff421.jpg",
+    "static/media/image-gallery-milkbottles.df1d9d84.jpg": "/SunnySide-Agency-LandingPage/static/media/image-gallery-milkbottles.df1d9d84.jpg",
+    "static/media/image-gallery-orange.49f4212b.jpg": "/SunnySide-Agency-LandingPage/static/media/image-gallery-orange.49f4212b.jpg",
+    "static/media/image-gallery-sugarcubes.09b72f4f.jpg": "/SunnySide-Agency-LandingPage/static/media/image-gallery-sugarcubes.09b72f4f.jpg",
+    "static/media/image-graphic-design.7ac8bdf0.jpg": "/SunnySide-Agency-LandingPage/static/media/image-graphic-design.7ac8bdf0.jpg",
+    "static/media/header.css": "/SunnySide-Agency-LandingPage/static/media/image-header.49b52ffa.jpg",
+    "static/media/image-photography.104cf40b.jpg": "/SunnySide-Agency-LandingPage/static/media/image-photography.104cf40b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7901f1f.js",
+    "static/js/2.393aaf29.chunk.js",
+    "static/css/main.73af4cfb.chunk.css",
+    "static/js/main.7795fb47.chunk.js"
+  ]
+}
