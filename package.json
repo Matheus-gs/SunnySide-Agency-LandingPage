@@ -2,7 +2,7 @@
   "name": "sunnyside-agency-landing-page",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://matheus-gs.github.io/SunnySide-Agency-LandingPage",
+  "homepage": "https://matheus-gs.github.io/SunnySide-Agency-LandingPage/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
